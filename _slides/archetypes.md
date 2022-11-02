@@ -12,6 +12,7 @@ slides:
   - xerox-star-desktop
   - vt100
   - apple-mouse
+  - microsoft-mouse
   - menus-on-windows
   - menus-on-top
   - igoefinger

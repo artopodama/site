@@ -10,6 +10,7 @@ events:
   - nls-mouse
   - telefunken-ball-mouse
   - input-comparison
+  - microsoft-mouse
   - apple-mouse
   - mouse-test-software
 ---
