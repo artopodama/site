@@ -7,4 +7,5 @@ events:
   - cpm 
   - ms-dos 
   - risc-os
+  - amigaos
 ---
