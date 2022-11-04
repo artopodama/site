@@ -20,4 +20,5 @@ slides:
   - sugar-neighborhood
   - deskmate
   - hp-newwave
+  - breadbox-ensemble
 ---
