@@ -6,4 +6,6 @@ caption: Ένα λειτουργικό σύστημα (ΛΣ) είναι λογι
 slides:
   - risc-os
   - amigaos
+  - artix
+  - suse
 ---
