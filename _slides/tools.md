@@ -22,6 +22,7 @@ slides:
   - pebble-hifi
   - reactable-music
   - reactivision-simulator
+  - vision
   - reactable-fountain
 ---
 
