@@ -1,6 +1,5 @@
 [submodule "_gallery"]
 	path = _gallery
-<<<<<<< HEAD
 	url = https://github.com/artopodama/_gallery
 [submodule "_quotes"]
 	path = _quotes
@@ -23,24 +22,3 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/artopodama/text
-=======
-	url = https://www.github.com/Second-Time-Is-The-Charm/_gallery
-[submodule "_quotes"]
-	path = _quotes
-	url = https://www.github.com/Second-Time-Is-The-Charm/_quotes
-[submodule "images"]
-	path = images
-	url = https://www.github.com/Second-Time-Is-The-Charm/images
-[submodule "_bibliography"]
-	path = _bibliography
-	url = https://www.github.com/Second-Time-Is-The-Charm/bibliography
-[submodule "_notes"]
-	path = _notes
-	url = https://www.github.com/Second-Time-Is-The-Charm/notes
-[submodule "_includes/extras"]
-	path = _includes/extras
-	url = https://www.github.com/Second-Time-Is-The-Charm/extras
-[submodule "_includes/text"]
-	path = _includes/text
-	url = https://www.github.com/Second-Time-Is-The-Charm/text
->>>>>>> 9e93cc6a7261352d5946b6151cc24ea8c96efa1c
