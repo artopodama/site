@@ -8,4 +8,5 @@ slides:
   - amigaos
   - artix
   - suse
+  - windows_11
 ---
