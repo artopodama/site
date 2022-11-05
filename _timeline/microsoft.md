@@ -12,4 +12,6 @@ events:
   - windows-phone
   - windows8
   - windows10
+  - windows_11
+  - microsoft_office_word
 ---

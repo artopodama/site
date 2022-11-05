@@ -9,4 +9,5 @@ slides:
   - artix
   - suse
   - breadbox-ensemble
+  - windows_11
 ---
