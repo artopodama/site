@@ -1,24 +1,24 @@
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/Second-Time-Is-The-Charm/_gallery
+	url = https://github.com/artopodama/_gallery
 [submodule "_quotes"]
 	path = _quotes
-	url = https://github.com/Second-Time-Is-The-Charm/_quotes
+	url = https://github.com/artopodama/_quotes
 [submodule "images"]
 	path = images
-	url = https://github.com/Second-Time-Is-The-Charm/images
+	url = https://github.com/artopodama/images
 [submodule "bibliography"]
 	path = bibliography
-	url = https://github.com/Second-Time-Is-The-Charm/bibliography
+	url = https://github.com/artopodama/bibliography
 [submodule "_bibliography"]
 	path = _bibliography
-	url = https://github.com/Second-Time-Is-The-Charm/bibliography
+	url = https://github.com/artopodama/bibliography
 [submodule "_notes"]
 	path = _notes
-	url = https://github.com/Second-Time-Is-The-Charm/notes
+	url = https://github.com/artopodama/notes
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = https://github.com/Second-Time-Is-The-Charm/extras
+	url = https://github.com/artopodama/extras
 [submodule "_includes/text"]
 	path = _includes/text
-	url = https://github.com/Second-Time-Is-The-Charm/text
+	url = https://github.com/artopodama/text
