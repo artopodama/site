@@ -9,4 +9,4 @@ tags:
   - oculus
 ---
 
-{% bio-palmer-luckey.md %}
+{% include bio-palmer-luckey.md %}
