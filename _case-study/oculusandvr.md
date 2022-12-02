@@ -7,6 +7,7 @@ categories:
   - Μελέτη Περίπτωσης
   - Ορισμός
 tags:
+  - Palmer Luckey
 ---
 
 {% include cs-oculus.md %}
