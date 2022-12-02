@@ -1,7 +1,7 @@
 ---
 author: artopodama
 title: Palmer Luckey
-image_url: /images/palmer.jpg
+image_url: /images/palmer(1).jpg
 caption: Ο Palmer Luckey δημιουργείσαι το πρώτο VR headset για χρήση από καταναλωτές και αναβίωσε το ενδιαφέρων του κόσμου για την εικονική και επαυξημένη πραγματικότητα
 categories:
   - Βιογραφία
